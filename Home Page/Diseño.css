@@ -1,0 +1,48 @@
+img{
+	float: left;
+	width: 40%;
+	height: 40%;
+	vertical-align: bottom;
+}
+
+p{
+	margin-left: 40%;
+  	margin-right: 25%;
+ 	padding: 10px;
+  	border: black 2px solid;
+  	position: relative;
+  	top: 150px;
+}
+
+#Registra{
+	margin-left: 40%;
+  	margin-right: 25%;
+ 	padding: 10px;
+  	border: black 2px solid;
+  	position: relative;
+  	top: 400px;
+  	left: -530px;
+  	background-color: #2BA1C6; 
+}
+
+#PortalP{
+	margin-left: 40%;
+  	margin-right: 25%;
+ 	padding: 10px;
+  	border: black 2px solid;
+  	position: relative;
+  	top: 355px;
+  	left: -80px;
+  	background-color: #30E7FD;
+}
+
+#PortalC{
+	margin-left: 40%;
+  	margin-right: 25%;
+ 	padding: 10px;
+  	border: black 2px solid;
+  	position: relative;
+  	top: 310px;
+  	left: 370px;
+  	background-color: #65C9F5 ;
+}
